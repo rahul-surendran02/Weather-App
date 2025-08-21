@@ -1,6 +1,6 @@
 # Weather-App 🌤️
 
-<img src="images/weather-app.png" alt="Weather App Screenshot" width="500"/><img src="images/weather-app1.png" alt="Weather App Screenshot 1" width="500"/>
+<img src="images/weather-app.png" alt="Weather App Screenshot" width="500"/> <img src="images/weather-app1.png" alt="Weather App Screenshot 1" width="500"/>
 
 A simple weather application built using **HTML**, **CSS**, and **JavaScript**, integrating the [OpenWeatherMap API](https://openweathermap.org/) for fetching real-time weather data.
 
