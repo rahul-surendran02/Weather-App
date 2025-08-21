@@ -1,5 +1,9 @@
 # Weather-App 🌤️
 
+![Description](images/weather-app.png)
+![Description](images/weather-app1.png)
+![Description](images/weather-app2.png)
+
 A simple weather application built using **HTML**, **CSS**, and **JavaScript**, integrating the [OpenWeatherMap API](https://openweathermap.org/) for fetching real-time weather data.
 
 ---
