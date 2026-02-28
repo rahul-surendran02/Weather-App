@@ -4,8 +4,6 @@
 
 A simple weather application built using **HTML**, **CSS**, and **JavaScript**, integrating the [OpenWeatherMap API](https://openweathermap.org/) for fetching real-time weather data.
 
----
-
 ## Features
 - 🌍 **City Search**: Search for any city to view its weather data.
 - 🌡️ **Temperature**: Displays the temperature in Celsius.
