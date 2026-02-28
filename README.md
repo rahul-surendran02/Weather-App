@@ -11,8 +11,6 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript**, 
 - 💨 **Wind Speed**: Provides wind speed in meters per second.
 - 🚫 **Error Handling**: Displays an error message for invalid or incorrect city names.
 
----
-
 ## Technologies Used
 - **HTML5**: For structure
 - **CSS3**: For styling and responsiveness
