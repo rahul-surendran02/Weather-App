@@ -1,4 +1,4 @@
-# Weather-App 🌤️
+# Weather App 🌤️
 
 <img src="images/weather-app.png" alt="Weather App Screenshot" width="500"/> <img src="images/weather-app1.png" alt="Weather App Screenshot 1" width="500"/>
 
